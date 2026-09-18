@@ -250,8 +250,7 @@ CAD       : SolidWorks
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=14&pause=1000&color=FFD700&center=true&vCenter=true&width=600&lines=%E2%9A%A1+Powered+by+Arc+Reactor+%E2%9A%A1;%22With+great+power+comes+great+responsibility.%22;%5BSYSTEM+STATUS%5D+All+Systems+Nominal+%2F%2F+Nandha+%5BONLINE%5D" alt="Footer Typing"/>
-
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=14&pause=1000&color=FFD700&center=true&vCenter=true&width=600&lines=%5BSYSTEM+STATUS%5D+All+Systems+Nominal+%2F%2F+Nandha+%5BONLINE%5D;Lets+Build+Something+Extraordinary." alt="Footer Typing"/>
 <br/><br/>
 
 Feel free to connect, collaborate, or discuss robotics and mechatronics engineering!
